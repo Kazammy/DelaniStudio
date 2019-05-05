@@ -35,11 +35,13 @@
   width: 40%;
   width: 45%;
   display: grid;
-
 }
 .column{
   float: left;
   width:33%;
+}
+#p,#pp,#ppp {
+  display: none;
 }
 .input{
   text-align: center;
