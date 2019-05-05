@@ -40,7 +40,26 @@
   float: left;
   width:33%;
 }
-#p,#pp,#ppp {
+@@media screen and (min-width:480px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+@@media screen and (min-width:770px) {
+  body {
+    background-color: violet;
+    color:gold;
+  }
+
+}
+#p {
+  display: none;
+}
+#pp {
+  display: none;
+}
+#ppp {
   display: none;
 }
 .input{
