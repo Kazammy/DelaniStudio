@@ -30,4 +30,12 @@ $(document).ready(function() {
       $("#ppp").hide();
     });
   });
+$("#answer").click(function() {
+  var message =(document.getElementById('you').value);
+  var names = (document.getElementById('names').value);
+  if (message !=="") {
+    alert(names + ' we have received your message. Thank you fro reaching out to us.');
+
+  }
+});
 });
