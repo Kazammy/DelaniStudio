@@ -1,5 +1,4 @@
 # DelaniStudio
-The name of this project is Delani Studio.
 ### DESCRIPTION
 This project is about a webpage of a software studio.Queries can be sent at the dialogue box at the bottom of the screen.
 ## AUTHOR'S INFORMATION
@@ -7,24 +6,27 @@ The author's full name is Samuel Wambugu Thige (a.k.a ;Zamzam).
 He is currently a student at Moringa School pursuing a short course on coding and programming.
 The author is 18 years of age :).
 ## SETUP INSTRUCTIONS
-The link of the live site is uploaded down below follow the link to access the program site. 
+The link of the live site is uploaded down below follow the link to access the program site.
+https://kazammy.github.io/DelaniStudio/
 ## BDD
 BEHAVIOUR    |INPUT EXAMPLE|OUTPUT EXAMPLE
 -------------|-------------|--------------
 Name inputted|Sthige       |*Sthige*we've received your email
 Email inputted and sent|sammythige@gmailcom|T
 ## TECHNOLOGIES USED
-The prgram uses Jquery to initialize some codes.
-Also present is Bootstrap . 
+-Jquery:To be able to toggle images to show hidden text in addition to interacting with the user through a pop-alert.
+-Bootstrap:To make the program easy to use.
+-CSS:for styling purposes to the html.
+
 ## LINK ADDRESS
 https://kazammy.github.io/DelaniStudio/
 ## CONTACT INFORMATION
 My contacts are listed below;
-SLACK:Samuel Thige
-INSTAGRAM:.p.ants_d.o.w.n
-FACEBOOK:Sam Thige
-GMAIL:sammythige26@gmail.com
-MOBILE NUMBER:+254722485761
+-SLACK:Samuel Thige
+-INSTAGRAM:.p.ants_d.o.w.n
+-FACEBOOK:Sam Thige
+-GMAIL:sammythige26@gmail.com
+-MOBILE NUMBER:+254722485761
               +254711120206
 ## LICENSE AND COPYRIGHT
 MIT License
