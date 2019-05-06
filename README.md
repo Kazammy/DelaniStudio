@@ -14,19 +14,19 @@ BEHAVIOUR    |INPUT EXAMPLE|OUTPUT EXAMPLE
 Name inputted|Sthige       |*Sthige*we've received your email
 Email inputted and sent|sammythige@gmailcom|T
 ## TECHNOLOGIES USED
--Jquery:To be able to toggle images to show hidden text in addition to interacting with the user through a pop-alert.
--Bootstrap:To make the program easy to use.
--CSS:for styling purposes to the html.
+1. Jquery:To be able to toggle images to show hidden text in addition to interacting with the user through a pop-alert.
+2. Bootstrap:To make the program easy to use.
+3. CSS:for styling purposes to the html.
 
 ## LINK ADDRESS
 https://kazammy.github.io/DelaniStudio/
 ## CONTACT INFORMATION
 My contacts are listed below;
--SLACK:Samuel Thige
--INSTAGRAM:.p.ants_d.o.w.n
--FACEBOOK:Sam Thige
--GMAIL:sammythige26@gmail.com
--MOBILE NUMBER:+254722485761
+* SLACK:Samuel Thige
+* INSTAGRAM:.p.ants_d.o.w.n
+* FACEBOOK:Sam Thige
+* GMAIL:sammythige26@gmail.com
+* MOBILE NUMBER:+254722485761
               +254711120206
 ## LICENSE AND COPYRIGHT
 MIT License
